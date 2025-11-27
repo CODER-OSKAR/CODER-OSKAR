@@ -58,18 +58,6 @@ I work with a variety of tools and technologies. Here are some of my favorites:
 
 ---
 
-### ✨ Project Spotlight
-
-Here's the project I'm currently focused on.
-
-<p align="center">
-  <a href="https://github.com/CODER-OSKAR/Minecraft-Armorstand-Configurator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CODER-OSKAR&repo=Minecraft-Armorstand-Configurator&theme=radical" alt="Minecraft-Armorstand-Configurator repo card" />
-  </a>
-</p>
-
----
-
 ### 📊 My GitHub Stats
 
 <p align="center">
