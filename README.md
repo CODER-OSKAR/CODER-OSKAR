@@ -64,7 +64,7 @@ Here's the project I'm currently focused on.
 
 <p align="center">
   <a href="https://github.com/CODER-OSKAR/Minecraft-Armorstand-Configurator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CODER-OSKAR&repo=Minecraft-Armorstand-Configurator&theme=radical" alt="Minecraft-Armorstand-Configurator repo card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CODER-OSKAR&repo=Minecraft-Armorstand-Configurator&theme=radica" alt="Minecraft-Armorstand-Configurator repo card" />
   </a>
 </p>
 
