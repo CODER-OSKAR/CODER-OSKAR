@@ -15,5 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-oskar&show_icons=true&locale=en&layout=compact" alt="coder-oskar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-oskar&show_icons=true&locale=en" alt="coder-oskar" /></p>
-
-<p>My Profile Logo: &nbsp;<img align="center" src="https://images.stockcake.com/public/d/1/2/d1263624-af12-4714-8061-fd205c28fcd6_large/cozy-coding-corner-stockcake.jpg" alt="Logo" height="80px"/></p>
+<h3 aling=left>My Profile Logo: </h3>
+<p>&nbsp;<img align="center" src="https://images.stockcake.com/public/d/1/2/d1263624-af12-4714-8061-fd205c28fcd6_large/cozy-coding-corner-stockcake.jpg" alt="Logo" height="80px"/></p>
